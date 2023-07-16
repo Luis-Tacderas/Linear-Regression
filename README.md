@@ -7,10 +7,10 @@ scatter plot and linear regression based from https://medium.com/geekculture/sim
 None
 
 ## Conclusions
-Python has available libraries for data visualzation.
+Python has available libraries for data visualization.
 
 ## Cool Techniques
-Data visualization using matplotlib, seaborn and scikit python libraries
+Data visualization using matplotlib, seaborn python libraries
 
 ## What else I might have done 
 1. Try using scikit.
